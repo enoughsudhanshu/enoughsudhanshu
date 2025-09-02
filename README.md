@@ -1,3 +1,6 @@
+# 💫 Hi 👋, I'm Sudhanshu Pandey 
+**A passionate software developer and future full stack developer, committed to creating impactful solutions and continuously learning new technologies.**
+
 # 💫 About Me:
 👋 Hi, I’m a third-year BTech student passionate about programming and tech innovation.<br><br>🔭 I’m currently working on improving my skills in app development, artificial intelligence, and machine learning.<br>👯 I’m looking to collaborate on projects involving Java, Python, or C, especially those integrating AI or mobile apps.<br>🤝 I’m looking for help with mastering DSA concepts and advanced ML algorithms.<br>🌱 I’m currently learning app development frameworks and exploring AI/ML applications.<br>💬 Ask me about Python, Java, C, and basic data structures and algorithms.<br>⚡ Fun fact: Turning lecture assignments into real-world projects is my favorite way to learn
 
@@ -20,6 +23,11 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=enoughsudhanshu&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=enoughsudhanshu&icon=0&color=0)](https://visitcount.itsvg.in)
