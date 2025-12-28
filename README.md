@@ -1,4 +1,5 @@
-# 💫 Hi 👋, I'm Sudhanshu Pandey(enoughsudhanshu)
+# 💫 Hi 👋, I'm Sudhanshu Pandey
+@enoughsudhanshu
 **A passionate software developer and future full stack developer, committed to creating impactful solutions and continuously learning new technologies.**
 
 # 💫 About Me:
